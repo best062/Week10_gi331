@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "295689625303",
+    "project_id": "testnotification329b-71c22",
+    "storage_bucket": "testnotification329b-71c22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295689625303:android:8d98595f6489137f595a92",
+        "android_client_info": {
+          "package_name": "com.Best062.Week10_GI331"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2mCkJBOWoTYVjaOMhxZyzD0elORYFhLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
